@@ -1,4 +1,4 @@
-﻿# sistema de cadrastro simple #
+﻿ sistema de cadrastro simples
  esse sitema foi feito com as seguintes ferramentas:
  typescript
  framework:
